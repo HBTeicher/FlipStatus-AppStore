@@ -4,7 +4,7 @@
 static Window *window;
 
 //#define STRING_LENGTH 255
-#define DATE_STRING_LENGTH  30
+#define DATE_STRING_LENGTH  40
 #define CAL_TEXT_STRING_LENGTH  25
 #define MUSIC_TEXT_STRING_LENGTH  30
 #define WEATHER_DAY_STRING_LENGTH 20
@@ -327,12 +327,12 @@ void data_update_and_refresh() {
 void handle_minute_tick(struct tm *tick_time, TimeUnits units_changed) {
 	// Need to be static because they're used by the system later.
 	static char time_text[] = "00:00";
-	static char date_text[] = "Xxxxxxxxx 00";
+	static char date_text[] = "Xxxxxxxxx 00 xxx";
 
 	char *time_format;
 
 	// TODO: Only update the date when it's changed.
-	strftime(date_text, sizeof(date_text), "%a, %b %e", tick_time);
+	strftime(date_text, sizeof(date_text), "%a %b %e W%V", tick_time);
 	text_layer_set_text(text_date_layer, date_text);
 
 

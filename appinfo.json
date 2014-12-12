@@ -9,333 +9,13 @@
     "resources": {
         "media": [
             {
-                "file": "images/wind_sm.png",
-                "name": "IMAGE_WIND_DIR",
+                "file": "images/status_inv.png",
+                "name": "IMAGE_STATUS_INV",
                 "type": "png"
             },
             {
-                "file": "images/wind_sm_inv.png",
-                "name": "IMAGE_WIND_DIR_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_50.png",
-                "name": "IMAGE_HUMIDITY_50",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_50_inv.png",
-                "name": "IMAGE_HUMIDITY_50_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waning_crescent_inv.png",
-                "name": "IMAGE_MOON_WANING_CRESCENT_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_last_qtr_inv.png",
-                "name": "IMAGE_MOON_LAST_QTR_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waning_gibbous_inv.png",
-                "name": "IMAGE_MOON_WANING_GIB_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_full_inv.png",
-                "name": "IMAGE_MOON_FULL_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waxing_gibbous_inv.png",
-                "name": "IMAGE_MOON_WAXING_GIB_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_first_qtr_inv.png",
-                "name": "IMAGE_MOON_FIRST_QTR_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waxing_crescent_inv.png",
-                "name": "IMAGE_MOON_WAXING_CRESCENT_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_new_inv.png",
-                "name": "IMAGE_MOON_NEW_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waning_crescent.png",
-                "name": "IMAGE_MOON_WANING_GIB",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_last_qtr.png",
-                "name": "IMAGE_MOON_FIRST_QTR",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waning_gibbous.png",
-                "name": "IMAGE_MOON_WANING_CRESCENT",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_full.png",
-                "name": "IMAGE_MOON_FULL",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waxing_gibbous.png",
-                "name": "IMAGE_MOON_WAXING_CRESCENT",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_first_qtr.png",
-                "name": "IMAGE_MOON_LAST_QTR",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_waxing_crescent.png",
-                "name": "IMAGE_MOON_WAXING_GIB",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_new.png",
-                "name": "IMAGE_MOON_NEW",
-                "type": "png"
-            },
-            {
-                "file": "images/wind_night_inv.png",
-                "name": "IMAGE_MOON_WIND_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/wind_night.png",
-                "name": "IMAGE_MOON_WIND",
-                "type": "png"
-            },
-            {
-                "file": "images/wind_day_inv.png",
-                "name": "IMAGE_SUN_WIND_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/wind_day.png",
-                "name": "IMAGE_SUN_WIND",
-                "type": "png"
-            },
-            {
-                "file": "images/fog_day.png",
-                "name": "IMAGE_SUN_FOG",
-                "type": "png"
-            },
-            {
-                "file": "images/fog_night_inv.png",
-                "name": "IMAGE_MOON_FOG_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/fog_night.png",
-                "name": "IMAGE_MOON_FOG",
-                "type": "png"
-            },
-            {
-                "file": "images/fog_day_inv.png",
-                "name": "IMAGE_SUN_FOG_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_clouds_inv.png",
-                "name": "IMAGE_MOON_CLOUDS_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_clouds.png",
-                "name": "IMAGE_MOON_CLOUDS",
-                "type": "png"
-            },
-            {
-                "file": "images/moon_inv.png",
-                "name": "IMAGE_MOON_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/moon.png",
-                "name": "IMAGE_MOON",
-                "type": "png"
-            },
-            {
-                "file": "images/wind_inv.png",
-                "name": "IMAGE_WIND_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/thunder_inv.png",
-                "name": "IMAGE_THUNDER_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/sun_inv.png",
-                "name": "IMAGE_SUN_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/sun_cloud_inv.png",
-                "name": "IMAGE_SUN_CLOUD_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/snow_inv.png",
-                "name": "IMAGE_SNOW_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/rain_inv.png",
-                "name": "IMAGE_RAIN_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/fog_inv.png",
-                "name": "IMAGE_FOG_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/disconnect_large_inv.png",
-                "name": "IMAGE_DISCONNECT_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/cloud_inv.png",
-                "name": "IMAGE_CLOUD_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/battery_phone_inv.png",
-                "name": "IMAGE_BATTERY_PHONE_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/battery_pebble_inv.png",
-                "name": "IMAGE_BATTERY_PEBBLE_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/battery_inv.png",
-                "name": "IMAGE_BATTERY_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/background_inv.png",
-                "name": "IMAGE_BACKGROUND_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/background.png",
-                "name": "IMAGE_BACKGROUND",
-                "type": "png"
-            },
-            {
-                "file": "images/disconnect_large.png",
-                "name": "IMAGE_DISCONNECT",
-                "type": "png"
-            },
-            {
-                "file": "images/sun.png",
-                "name": "IMAGE_SUN",
-                "type": "png"
-            },
-            {
-                "file": "images/rain.png",
-                "name": "IMAGE_RAIN",
-                "type": "png"
-            },
-            {
-                "file": "images/cloud.png",
-                "name": "IMAGE_CLOUD",
-                "type": "png"
-            },
-            {
-                "file": "images/sun_cloud.png",
-                "name": "IMAGE_SUN_CLOUD",
-                "type": "png"
-            },
-            {
-                "file": "images/wind.png",
-                "name": "IMAGE_WIND",
-                "type": "png"
-            },
-            {
-                "file": "images/fog.png",
-                "name": "IMAGE_FOG",
-                "type": "png"
-            },
-            {
-                "file": "images/snow.png",
-                "name": "IMAGE_SNOW",
-                "type": "png"
-            },
-            {
-                "file": "images/thunder.png",
-                "name": "IMAGE_THUNDER",
-                "type": "png"
-            },
-            {
-                "file": "images/battery.png",
-                "name": "IMAGE_BATTERY",
-                "type": "png"
-            },
-            {
-                "file": "images/battery_phone.png",
-                "name": "IMAGE_BATTERY_PHONE",
-                "type": "png"
-            },
-            {
-                "file": "images/battery_pebble.png",
-                "name": "IMAGE_BATTERY_PEBBLE",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_0_inv.png",
-                "name": "IMAGE_HUMIDITY_0_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_0.png",
-                "name": "IMAGE_HUMIDITY_0",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_25_inv.png",
-                "name": "IMAGE_HUMIDITY_25_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_25.png",
-                "name": "IMAGE_HUMIDITY_25",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_75_inv.png",
-                "name": "IMAGE_HUMIDITY_75_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_75.png",
-                "name": "IMAGE_HUMIDITY_75",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_100_inv.png",
-                "name": "IMAGE_HUMIDITY_100_INV",
-                "type": "png"
-            },
-            {
-                "file": "images/humidity_100.png",
-                "name": "IMAGE_HUMIDITY_100",
+                "file": "images/status.png",
+                "name": "IMAGE_STATUS",
                 "type": "png"
             },
             {
@@ -345,13 +25,333 @@
                 "type": "png"
             },
             {
-                "file": "images/status.png",
-                "name": "IMAGE_STATUS",
+                "file": "images/humidity_100.png",
+                "name": "IMAGE_HUMIDITY_100",
                 "type": "png"
             },
             {
-                "file": "images/status_inv.png",
-                "name": "IMAGE_STATUS_INV",
+                "file": "images/humidity_100_inv.png",
+                "name": "IMAGE_HUMIDITY_100_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_75.png",
+                "name": "IMAGE_HUMIDITY_75",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_75_inv.png",
+                "name": "IMAGE_HUMIDITY_75_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_25.png",
+                "name": "IMAGE_HUMIDITY_25",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_25_inv.png",
+                "name": "IMAGE_HUMIDITY_25_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_0.png",
+                "name": "IMAGE_HUMIDITY_0",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_0_inv.png",
+                "name": "IMAGE_HUMIDITY_0_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_pebble.png",
+                "name": "IMAGE_BATTERY_PEBBLE",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_phone.png",
+                "name": "IMAGE_BATTERY_PHONE",
+                "type": "png"
+            },
+            {
+                "file": "images/battery.png",
+                "name": "IMAGE_BATTERY",
+                "type": "png"
+            },
+            {
+                "file": "images/thunder.png",
+                "name": "IMAGE_THUNDER",
+                "type": "png"
+            },
+            {
+                "file": "images/snow.png",
+                "name": "IMAGE_SNOW",
+                "type": "png"
+            },
+            {
+                "file": "images/fog.png",
+                "name": "IMAGE_FOG",
+                "type": "png"
+            },
+            {
+                "file": "images/wind.png",
+                "name": "IMAGE_WIND",
+                "type": "png"
+            },
+            {
+                "file": "images/sun_cloud.png",
+                "name": "IMAGE_SUN_CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud.png",
+                "name": "IMAGE_CLOUD",
+                "type": "png"
+            },
+            {
+                "file": "images/rain.png",
+                "name": "IMAGE_RAIN",
+                "type": "png"
+            },
+            {
+                "file": "images/sun.png",
+                "name": "IMAGE_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/disconnect_large.png",
+                "name": "IMAGE_DISCONNECT",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/background_inv.png",
+                "name": "IMAGE_BACKGROUND_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_inv.png",
+                "name": "IMAGE_BATTERY_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_pebble_inv.png",
+                "name": "IMAGE_BATTERY_PEBBLE_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_phone_inv.png",
+                "name": "IMAGE_BATTERY_PHONE_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/cloud_inv.png",
+                "name": "IMAGE_CLOUD_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/disconnect_large_inv.png",
+                "name": "IMAGE_DISCONNECT_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/fog_inv.png",
+                "name": "IMAGE_FOG_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/rain_inv.png",
+                "name": "IMAGE_RAIN_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/snow_inv.png",
+                "name": "IMAGE_SNOW_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/sun_cloud_inv.png",
+                "name": "IMAGE_SUN_CLOUD_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/sun_inv.png",
+                "name": "IMAGE_SUN_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/thunder_inv.png",
+                "name": "IMAGE_THUNDER_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_inv.png",
+                "name": "IMAGE_WIND_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon.png",
+                "name": "IMAGE_MOON",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_inv.png",
+                "name": "IMAGE_MOON_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_clouds.png",
+                "name": "IMAGE_MOON_CLOUDS",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_clouds_inv.png",
+                "name": "IMAGE_MOON_CLOUDS_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/fog_day_inv.png",
+                "name": "IMAGE_SUN_FOG_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/fog_night.png",
+                "name": "IMAGE_MOON_FOG",
+                "type": "png"
+            },
+            {
+                "file": "images/fog_night_inv.png",
+                "name": "IMAGE_MOON_FOG_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/fog_day.png",
+                "name": "IMAGE_SUN_FOG",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_day.png",
+                "name": "IMAGE_SUN_WIND",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_day_inv.png",
+                "name": "IMAGE_SUN_WIND_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_night.png",
+                "name": "IMAGE_MOON_WIND",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_night_inv.png",
+                "name": "IMAGE_MOON_WIND_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_new.png",
+                "name": "IMAGE_MOON_NEW",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waxing_crescent.png",
+                "name": "IMAGE_MOON_WAXING_GIB",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_first_qtr.png",
+                "name": "IMAGE_MOON_LAST_QTR",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waxing_gibbous.png",
+                "name": "IMAGE_MOON_WAXING_CRESCENT",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_full.png",
+                "name": "IMAGE_MOON_FULL",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waning_gibbous.png",
+                "name": "IMAGE_MOON_WANING_CRESCENT",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_last_qtr.png",
+                "name": "IMAGE_MOON_FIRST_QTR",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waning_crescent.png",
+                "name": "IMAGE_MOON_WANING_GIB",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_new_inv.png",
+                "name": "IMAGE_MOON_NEW_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waxing_crescent_inv.png",
+                "name": "IMAGE_MOON_WAXING_CRESCENT_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_first_qtr_inv.png",
+                "name": "IMAGE_MOON_FIRST_QTR_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waxing_gibbous_inv.png",
+                "name": "IMAGE_MOON_WAXING_GIB_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_full_inv.png",
+                "name": "IMAGE_MOON_FULL_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waning_gibbous_inv.png",
+                "name": "IMAGE_MOON_WANING_GIB_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_last_qtr_inv.png",
+                "name": "IMAGE_MOON_LAST_QTR_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/moon_waning_crescent_inv.png",
+                "name": "IMAGE_MOON_WANING_CRESCENT_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_50_inv.png",
+                "name": "IMAGE_HUMIDITY_50_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/humidity_50.png",
+                "name": "IMAGE_HUMIDITY_50",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_sm_inv.png",
+                "name": "IMAGE_WIND_DIR_INV",
+                "type": "png"
+            },
+            {
+                "file": "images/wind_sm.png",
+                "name": "IMAGE_WIND_DIR",
                 "type": "png"
             }
         ]
